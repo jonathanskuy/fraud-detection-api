@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+mlflow
+fastapi
+uvicorn
+pydantic
+pyarrow
+matplotlib
+seaborn
+shap
+evidently
+pytest
+httpx
