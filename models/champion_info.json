@@ -6,5 +6,15 @@
   "precision": 0.9417,
   "recall": 0.6218,
   "f1": 0.7491,
-  "threshold": 0.5
+  "threshold": 0.2543548345565796,
+  "threshold_f1": 0.7825182052259726,
+  "threshold_precision": 0.8461322081575247,
+  "threshold_recall": 0.7278006290829906,
+  "top_features": [
+    "TransactionAmt",
+    "M4",
+    "C1",
+    "C13",
+    "V126"
+  ]
 }
